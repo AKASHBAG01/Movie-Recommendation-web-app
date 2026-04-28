@@ -1,0 +1,6 @@
+joblib
+pandas
+from flask import Flask, jsonify, request, send_from_directory
+requests
+from flask_cors import CORS
+pip install flask flask-cors joblib pandas requests toml
